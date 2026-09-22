@@ -57,3 +57,4 @@ def emotion_detector(text_to_analyze):
 
     else:
         print("Invalid text! Please try again")
+
